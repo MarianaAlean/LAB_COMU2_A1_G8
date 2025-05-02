@@ -1,7 +1,2 @@
 # LAB_COMU2_A1_G8
-<<<<<<< HEAD
-
-
-
-=======
->>>>>>> 2be074e353202de5b6de51f7899e847969ab5d3f
+Este es el repositorio donde subiremos los archivos correspondientes a cada práctica de laboratorio de comunicaciones 2.
